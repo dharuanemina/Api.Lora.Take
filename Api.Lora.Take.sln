@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.Lora.Take", "Api.Lora.Take\Api.Lora.Take.csproj", "{EDEB9335-00FF-42CD-B0FD-F6CA9F794DEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDEB9335-00FF-42CD-B0FD-F6CA9F794DEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDEB9335-00FF-42CD-B0FD-F6CA9F794DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDEB9335-00FF-42CD-B0FD-F6CA9F794DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDEB9335-00FF-42CD-B0FD-F6CA9F794DEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {025B1A18-B091-4AEC-8845-04E832108364}
+	EndGlobalSection
+EndGlobal
